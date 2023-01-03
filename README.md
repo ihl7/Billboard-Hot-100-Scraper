@@ -15,8 +15,8 @@ This script allows you to get the list of songs that were on the Billboard Hot 1
 
 2. Run the script and enter the year you want to get the Billboard Hot 100 for:
 
-`python billboard.py
-Enter a year (YYYY): 2021`
+`python billboard.py`
+`Enter a year (YYYY): 2021`
 
 3. The script will print out the list of songs on the Billboard Hot 100 chart for the year you entered.
 
